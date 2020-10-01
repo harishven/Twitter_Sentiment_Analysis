@@ -1,3 +1,0 @@
-[debug] Copy resource mappings: 
-[debug] 	(C:\kafka\src\main\resources\application.conf,C:\kafka\target\scala-2.11\classes\application.conf)
-[debug] 	(C:\kafka\src\main\resources\log4j.properties,C:\kafka\target\scala-2.11\classes\log4j.properties)
